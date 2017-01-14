@@ -15,5 +15,21 @@ namespace Tabla_Multiplicar
         {
             InitializeComponent();
         }
+
+        private void CarcularBotton_Click(object sender, EventArgs e)
+        {
+            int contador, Tabla, Numero;
+            Tabla = Convert.ToInt32(NumeroTablaTextBox.Text);
+            for (contador = 0; contador <= 12; contador++)
+            {
+                if (Tabla == contador)
+
+                    contador = Tabla + 1;
+                Numero = Tabla * contador;
+                TablaListBox.Items.Add
+
+                    (Tabla + "*" + contador + "=" + Numero);
+            }
+        }
     }
 }

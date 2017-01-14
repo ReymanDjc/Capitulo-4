@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabla Multiplicar", "Tabla Multiplicar\Tabla Multiplicar.csproj", "{46BB22A1-C248-4A22-AC3C-F2F22E698F1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevarNum", "ElevarNum\ElevarNum.csproj", "{5C6E2265-4FA2-4084-B74C-C443F9DDCE87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{46BB22A1-C248-4A22-AC3C-F2F22E698F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BB22A1-C248-4A22-AC3C-F2F22E698F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BB22A1-C248-4A22-AC3C-F2F22E698F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6E2265-4FA2-4084-B74C-C443F9DDCE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6E2265-4FA2-4084-B74C-C443F9DDCE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6E2265-4FA2-4084-B74C-C443F9DDCE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6E2265-4FA2-4084-B74C-C443F9DDCE87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
